@@ -1,11 +1,11 @@
-## Baic X25 Comfort At
+## Mazda Cx3 Awd 2020
 
 ### Precio:
 
 <p>&nbsp;</p>
 
 -----|-----
-**Año** | xxxx
+**Año** | 2020
 **KM** | xxxx
 **Placa** | xxxx
 **Puertas** | xxxx
