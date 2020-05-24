@@ -1,16 +1,16 @@
 ## Hyundai Accent I 25 Sedan
 
-### Precio:
+### Precio: $33.500.000
 
 <p>&nbsp;</p>
 
 -----|-----
-**Año** | xxxx
-**KM** | xxxx
-**Placa** | xxxx
-**Puertas** | xxxx
-**Dirección** | xxxx
-**Transmisión** | xxxx
+**Año** | 2015
+**KM** | 54.000
+**Placa** | ZYN004
+**Puertas** | 4
+**Dirección** | Electroasistida
+**Transmisión** | Mecanica
 
 
 <p>&nbsp;</p>
