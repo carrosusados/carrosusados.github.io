@@ -1,16 +1,17 @@
 ## Baic X25 Comfort At
 
-### Precio:
+### Precio: $$33.500.000
 
 <p>&nbsp;</p>
 
 -----|-----
-**Año** | xxxx
-**KM** | xxxx
-**Placa** | xxxx
-**Puertas** | xxxx
-**Dirección** | xxxx
-**Transmisión** | xxxx
+**Año** | 2018
+**KM** | 7.800
+**Placa** | EMM392
+**Puertas** | 5
+**Dirección** | Electroasistida
+**Transmisión** | Automatica
+
 
 
 <p>&nbsp;</p>
