@@ -9,11 +9,11 @@ Concesionario con más de 103 años en el mercado nacional, 40 puntos de venta y
 ## Catálogo de Marcas
 
 -----------
-![test image size](/usados/images/Perfil/Subaru.png){:class="img-responsive"}
-![test image size](/usados/images/Perfil/Subaru.png){:height="50%" width="50%"}
-![test image size](/usados/images/Perfil/Subaru.png){:height="700px" width="400px"}
+![test image size](/usados/images/Perfil/subaru logo.png){:class="img-responsive"}
+![test image size](/usados/images/Perfil/subaru logo.png){:height="50%" width="50%"}
+![test image size](/usados/images/Perfil/subaru logo.png){:height="700px" width="400px"}
 
-<img src="/usados/images/Perfil/Subaru.png?raw=true"/>
+<img src="/usados/images/Perfil/subaru logo.png?raw=true"/>
 ### Subaru [(Ver Catálogo)](/Subaru.md)
 
 -----------
