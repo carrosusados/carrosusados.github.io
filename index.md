@@ -44,7 +44,7 @@
 <img src="images/Hyundai Accent I 25 Sedan - 0.9855.jpg?raw=true"/>
 <p>&nbsp;</p>
 ---
-### Mazda 2 Gt Mt 2016 [(Ver más fotos)](/Mazda 2 Gt Mt 2016 Kilo-9.000.md)
+### Mazda 2 Gt Mt 2016 [(Ver más fotos)](/Mazda 2 Gt Mt 2016.md)
 #### Precio: $43.000.000
 
 <img src="images/Mazda 2 Gt Mt 2016 Kilo-9.000 - 0.8354.jpg?raw=true"/>
