@@ -1,16 +1,16 @@
-## /Baic X35 Elite Mt
+## Baic X35 Elite Mt
 
-### Precio:
+### Precio: $35.000.000
 
 <p>&nbsp;</p>
 
 -----|-----
-**Año** | xxxx
-**KM** | xxxx
-**Placa** | xxxx
-**Puertas** | xxxx
-**Dirección** | xxxx
-**Transmisión** | xxxx
+**Año** | 2018
+**KM** | 10600
+**Placa** | EIW708
+**Puertas** | 5
+**Dirección** | Electroasistida
+**Transmisión** | Mecanica
 
 
 <p>&nbsp;</p>
