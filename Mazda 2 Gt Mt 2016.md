@@ -1,16 +1,16 @@
 ## Mazda 2 Gt Mt 2016
 
-### Precio:
+### Precio: $43.000.000
 
 <p>&nbsp;</p>
 
 -----|-----
 **Año** | 2016
-**KM** | xxxx
-**Placa** | xxxx
-**Puertas** | xxxx
-**Dirección** | xxxx
-**Transmisión** | xxxx
+**KM** | 8.900
+**Placa** | IMM976
+**Puertas** | 5
+**Dirección** | Hidraulica
+**Transmisión** | Mecanica
 
 
 <p>&nbsp;</p>
