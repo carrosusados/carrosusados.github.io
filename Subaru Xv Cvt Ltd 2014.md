@@ -1,11 +1,11 @@
-## Baic X25 Comfort At
+## Subaru Xv Cvt Ltd 2014
 
 ### Precio:
 
 <p>&nbsp;</p>
 
 -----|-----
-**Año** | xxxx
+**Año** | 2014
 **KM** | xxxx
 **Placa** | xxxx
 **Puertas** | xxxx
@@ -15,19 +15,19 @@
 
 <p>&nbsp;</p>
 
-<img src="images/Baic X25 Comfort At - 0.1327.jpg?raw=true"/>
-<img src="images/Baic X25 Comfort At - 0.2203.jpg?raw=true"/>
-<img src="images/Baic X25 Comfort At - 0.2306.jpg?raw=true"/>
-<img src="images/Baic X25 Comfort At - 0.3366.jpg?raw=true"/>
-<img src="images/Baic X25 Comfort At - 0.6544.jpg?raw=true"/>
-<img src="images/Baic X25 Comfort At - 0.7252.jpg?raw=true"/>
-<img src="images/Baic X25 Comfort At - 0.7906.jpg?raw=true"/>
-<img src="images/Baic X25 Comfort At - 0.8126.jpg?raw=true"/>
-<img src="images/Baic X25 Comfort At - 0.8936.jpg?raw=true"/>
-<img src="images/Baic X25 Comfort At - 0.8972.jpg?raw=true"/>
-<img src="images/Baic X25 Comfort At - 0.9037.jpg?raw=true"/>
-<img src="images/Baic X25 Comfort At - 0.9683.jpg?raw=true"/>
-<img src="images/Baic X25 Comfort At - 0.9771.jpg?raw=true"/>
+<img src="images/Subaru Xv Cvt Ltd 2014 - 0.0112.jpg?raw=true"/>
+<img src="images/Subaru Xv Cvt Ltd 2014 - 0.0358.jpg?raw=true"/>
+<img src="images/Subaru Xv Cvt Ltd 2014 - 0.0421.jpg?raw=true"/>
+<img src="images/Subaru Xv Cvt Ltd 2014 - 0.0783.jpg?raw=true"/>
+<img src="images/Subaru Xv Cvt Ltd 2014 - 0.0826.jpg?raw=true"/>
+<img src="images/Subaru Xv Cvt Ltd 2014 - 0.0914.jpg?raw=true"/>
+<img src="images/Subaru Xv Cvt Ltd 2014 - 0.2282.jpg?raw=true"/>
+<img src="images/Subaru Xv Cvt Ltd 2014 - 0.278.jpg?raw=true"/>
+<img src="images/Subaru Xv Cvt Ltd 2014 - 0.349.jpg?raw=true"/>
+<img src="images/Subaru Xv Cvt Ltd 2014 - 0.4742.jpg?raw=true"/>
+<img src="images/Subaru Xv Cvt Ltd 2014 - 0.4846.jpg?raw=true"/>
+<img src="images/Subaru Xv Cvt Ltd 2014 - 0.8886.jpg?raw=true"/>
+<img src="images/Subaru Xv Cvt Ltd 2014 - 0.9857.jpg?raw=true"/>
 
 
 
