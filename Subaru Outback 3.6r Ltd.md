@@ -1,16 +1,16 @@
 ## Subaru Outback 3.6r Ltd
 
-### Precio:
+### Precio: $81.900.000
 
 <p>&nbsp;</p>
 
 -----|-----
-**Año** | xxxx
-**KM** | xxxx
-**Placa** | xxxx
-**Puertas** | xxxx
-**Dirección** | xxxx
-**Transmisión** | xxxx
+**Año** | 2017
+**KM** | 41.000
+**Placa** | DZX393
+**Puertas** | 5
+**Dirección** | Asistida
+**Transmisión** | Automatica
 
 
 <p>&nbsp;</p>
