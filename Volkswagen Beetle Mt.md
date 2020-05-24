@@ -1,16 +1,16 @@
 ## Volkswagen Beetle Mt
 
-### Precio:
+### Precio: $56.900.000
 
 <p>&nbsp;</p>
 
 -----|-----
-**Año** | xxxx
-**KM** | xxxx
-**Placa** | xxxx
-**Puertas** | xxxx
-**Dirección** | xxxx
-**Transmisión** | xxxx
+**Año** | 2017
+**KM** | 23.000
+**Placa** | DGU601
+**Puertas** | 2
+**Dirección** | Electroasistida
+**Transmisión** | Mecanica
 
 
 <p>&nbsp;</p>
