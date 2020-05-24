@@ -1,16 +1,17 @@
 ## Mazda Cx3 Awd 2020
 
-### Precio:
+### Precio: $86.900.000
 
 <p>&nbsp;</p>
 
 -----|-----
 **Año** | 2020
-**KM** | xxxx
-**Placa** | xxxx
-**Puertas** | xxxx
-**Dirección** | xxxx
-**Transmisión** | xxxx
+**KM** | 1790
+**Placa** | GBM477
+**Puertas** | 5
+**Dirección** | Hidraulica
+**Transmisión** | Automatica
+
 
 
 <p>&nbsp;</p>
