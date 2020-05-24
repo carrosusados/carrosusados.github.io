@@ -1,16 +1,16 @@
 ## Subaru Xv 2.0i-s Es Cvt
 
-### Precio:
+### Precio: $95.000.000
 
 <p>&nbsp;</p>
 
 -----|-----
-**Año** | xxxx
-**KM** | xxxx
-**Placa** | xxxx
-**Puertas** | xxxx
-**Dirección** | xxxx
-**Transmisión** | xxxx
+**Año** | 2018
+**KM** | 15266
+**Placa** | EMV219
+**Puertas** | 5
+**Dirección** | Asistida
+**Transmisión** | Automatica
 
 
 <p>&nbsp;</p>
