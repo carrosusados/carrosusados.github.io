@@ -1,16 +1,16 @@
 ## Nissan Versa 1.6 Automatico
 
-### Precio:
+### Precio: $31.900.000
 
 <p>&nbsp;</p>
 
 -----|-----
-**Año** | xxxx
-**KM** | xxxx
-**Placa** | xxxx
-**Puertas** | xxxx
-**Dirección** | xxxx
-**Transmisión** | xxxx
+**Año** | 2012
+**KM** | 14.700
+**Placa** | MBQ755
+**Puertas** | 5
+**Dirección** | Hidraulica
+**Transmisión** | Automatica
 
 
 <p>&nbsp;</p>
