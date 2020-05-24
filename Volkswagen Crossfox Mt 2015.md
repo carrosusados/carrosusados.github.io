@@ -1,33 +1,35 @@
-## Baic X25 Comfort At
+## Volkswagen Crossfox Mt 2015
 
-### Precio:
+### Precio: $ 36.500.000
 
 <p>&nbsp;</p>
 
 -----|-----
-**Año** | xxxx
-**KM** | xxxx
-**Placa** | xxxx
-**Puertas** | xxxx
-**Dirección** | xxxx
-**Transmisión** | xxxx
+**Año** | 2015
+**KM** | 67.135
+**Placa** | HQZ055
+**Puertas** | 4
+**Dirección** | Hidraulica
+**Transmisión** | Mecanica
 
 
 <p>&nbsp;</p>
 
-<img src="images/Baic X25 Comfort At - 0.1327.jpg?raw=true"/>
-<img src="images/Baic X25 Comfort At - 0.2203.jpg?raw=true"/>
-<img src="images/Baic X25 Comfort At - 0.2306.jpg?raw=true"/>
-<img src="images/Baic X25 Comfort At - 0.3366.jpg?raw=true"/>
-<img src="images/Baic X25 Comfort At - 0.6544.jpg?raw=true"/>
-<img src="images/Baic X25 Comfort At - 0.7252.jpg?raw=true"/>
-<img src="images/Baic X25 Comfort At - 0.7906.jpg?raw=true"/>
-<img src="images/Baic X25 Comfort At - 0.8126.jpg?raw=true"/>
-<img src="images/Baic X25 Comfort At - 0.8936.jpg?raw=true"/>
-<img src="images/Baic X25 Comfort At - 0.8972.jpg?raw=true"/>
-<img src="images/Baic X25 Comfort At - 0.9037.jpg?raw=true"/>
-<img src="images/Baic X25 Comfort At - 0.9683.jpg?raw=true"/>
-<img src="images/Baic X25 Comfort At - 0.9771.jpg?raw=true"/>
+<img src="images/Volkswagen Crossfox Mt 2015 - 0.0562.jpg?raw=true"/>
+<img src="images/Volkswagen Crossfox Mt 2015 - 0.0638.jpg?raw=true"/>
+<img src="images/Volkswagen Crossfox Mt 2015 - 0.0794.jpg?raw=true"/>
+<img src="images/Volkswagen Crossfox Mt 2015 - 0.3386.jpg?raw=true"/>
+<img src="images/Volkswagen Crossfox Mt 2015 - 0.4232.jpg?raw=true"/>
+<img src="images/Volkswagen Crossfox Mt 2015 - 0.5458.jpg?raw=true"/>
+<img src="images/Volkswagen Crossfox Mt 2015 - 0.7078.jpg?raw=true"/>
+<img src="images/Volkswagen Crossfox Mt 2015 - 0.7108.jpg?raw=true"/>
+<img src="images/Volkswagen Crossfox Mt 2015 - 0.7623.jpg?raw=true"/>
+<img src="images/Volkswagen Crossfox Mt 2015 - 0.7694.jpg?raw=true"/>
+<img src="images/Volkswagen Crossfox Mt 2015 - 0.8432.jpg?raw=true"/>
+<img src="images/Volkswagen Crossfox Mt 2015 - 0.8891.jpg?raw=true"/>
+<img src="images/Volkswagen Crossfox Mt 2015 - 0.9352.jpg?raw=true"/>
+<img src="images/Volkswagen Crossfox Mt 2015 - 0.9703.jpg?raw=true"/>
+
 
 
 
