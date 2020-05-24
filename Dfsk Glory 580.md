@@ -1,16 +1,16 @@
 ## Dfsk Glory 580
 
-### Precio:
+### Precio: $56.000.000
 
 <p>&nbsp;</p>
 
 -----|-----
-**Año** | xxxx
-**KM** | xxxx
-**Placa** | xxxx
-**Puertas** | xxxx
-**Dirección** | xxxx
-**Transmisión** | xxxx
+**Año** | 2020
+**KM** | 10.000
+**Placa** | FZL870
+**Puertas** | 5
+**Dirección** | Electroasistida
+**Transmisión** | Mecanica
 
 
 <p>&nbsp;</p>
