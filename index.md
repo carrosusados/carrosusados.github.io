@@ -1,5 +1,7 @@
 ## Carros Usados
 
+### Subaru [(Ver más fotos)](/usados/Subaru Impreza 2.0i 5dr Sport.md)
+
 
 ---
 ### Baic X25 Comfort At [(Ver más fotos)](/Baic X25 Comfort At.md)
