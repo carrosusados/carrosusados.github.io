@@ -1,16 +1,16 @@
 ## Subaru Xv Cvt Ltd 2014
 
-### Precio:
+### Precio: $56.900.000
 
 <p>&nbsp;</p>
 
 -----|-----
 **Año** | 2014
-**KM** | xxxx
-**Placa** | xxxx
-**Puertas** | xxxx
-**Dirección** | xxxx
-**Transmisión** | xxxx
+**KM** | 93.000
+**Placa** | UGU968
+**Puertas** | 4
+**Dirección** | Hidraulica
+**Transmisión** | Automatica
 
 
 <p>&nbsp;</p>
