@@ -1,6 +1,6 @@
 ## Carros Usados
 
-### Subaru [(Ver más fotos)](/usados/Subaru Impreza 2.0i 5dr Sport.md)
+### Subaru [(Ver catálogo)](/Subaru.md)
 
 
 ---
