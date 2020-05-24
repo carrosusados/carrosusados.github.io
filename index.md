@@ -4,9 +4,9 @@
 ---
 ### Baic X25 Comfort At [(Ver más fotos)](/Baic X25 Comfort At.md)
 #### Precio: $33.500.000
-<p>&nbsp;</p>
-<img src="images/Baic X25 Comfort At - 0.7906.jpg?raw=true"/>
 
+<img src="images/Baic X25 Comfort At - 0.7906.jpg?raw=true"/>
+<p>&nbsp;</p>
 ---
 ### Baic X35 Elite Mt [(Ver más fotos)](/Baic X35 Elite Mt.md)
 #### Precio: $35.000.000
@@ -62,11 +62,11 @@
 <img src="images/Mini Cooper Mt 1.6 T - 0.9675.jpg?raw=true"/>
 
 ---
-### Nissan March 1.6 [(Ver más fotos)](/Nissan March 1.6.md)
+### Nissan March 1.6 [(Ver más fotos)](/Nissan March 1.6 Azul.md)
 #### Precio: $30.900.000
-<p>&nbsp;</p>
-<img src="images/Nissan March 1.6 - 0.1973.jpg?raw=true"/>
 
+<img src="images/Nissan March 1.6 - 0.1973.jpg?raw=true"/>
+<p>&nbsp;</p>
 ---
 ### Nissan Versa 1.6 Automatico [(Ver más fotos)](/Nissan Versa 1.6 Automatico.md)
 #### Precio: $31.900.000
