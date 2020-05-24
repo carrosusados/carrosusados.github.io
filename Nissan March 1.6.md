@@ -21,7 +21,6 @@
 <img src="images/Nissan March 1.6 - 0.4068.jpg?raw=true"/>
 <img src="images/Nissan March 1.6 - 0.5857.jpg?raw=true"/>
 <img src="images/Nissan March 1.6 - 0.7824.jpg?raw=true"/>
-<img src="images/Nissan March 1.6 - 0.786.jpg?raw=true"/>
 <img src="images/Nissan March 1.6 - 0.7908.jpg?raw=true"/>
 <img src="images/Nissan March 1.6 - 0.378.jpg?raw=true"/>
 <img src="images/Nissan March 1.6 - 0.2518.jpg?raw=true"/>
