@@ -1,16 +1,16 @@
 ## Ford Eco Sport Se At 4x2 Modelo 2018
 
-### Precio:
+### Precio: $57.900.000
 
 <p>&nbsp;</p>
 
 -----|-----
 **Año** | 2018
-**KM** | xxxx
-**Placa** | xxxx
-**Puertas** | xxxx
-**Dirección** | xxxx
-**Transmisión** | xxxx
+**KM** | 21.000
+**Placa** | ELO146
+**Puertas** | 5
+**Dirección** | Asistida
+**Transmisión** | Automatica
 
 
 <p>&nbsp;</p>
