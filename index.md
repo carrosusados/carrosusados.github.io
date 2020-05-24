@@ -9,12 +9,9 @@ Concesionario con más de 103 años en el mercado nacional, 40 puntos de venta y
 ## Catálogo de Marcas
 
 -----------
-![test image size](/usados/images/Perfil/subaru logo.png){:class="img-responsive"}
-![test image size](/usados/images/Perfil/subaru logo.png){:height="50%" width="50%"}
-![test image size](/usados/images/Perfil/subaru logo.png){:height="700px" width="400px"}
 
-<img src="/usados/images/Perfil/subaru logo.png?raw=true"/>
-### Subaru [(Ver Catálogo)](/Subaru.md)
+
+### ![test image size](/usados/images/Perfil/subaru logo.png){:height="20%" width="20%"} Subaru [(Ver Catálogo)](/Subaru.md)
 
 -----------
 ### Baic [(Ver Catálogo)](/Baic.md)
