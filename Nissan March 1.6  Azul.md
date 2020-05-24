@@ -1,16 +1,17 @@
 ## Nissan March 1.6 Color Azul
 
-### Precio:
+### Precio: $30.900.000
 
 <p>&nbsp;</p>
 
 -----|-----
-**Año** | xxxx
-**KM** | xxxx
-**Placa** | xxxx
-**Puertas** | xxxx
-**Dirección** | xxxx
-**Transmisión** | xxxx
+**Año** | 2017
+**KM** | 47.000
+**Placa** | JDX392
+**Puertas** | 5
+**Dirección** | Electroasistida
+**Transmisión** | Mecanica
+
 
 
 <p>&nbsp;</p>
