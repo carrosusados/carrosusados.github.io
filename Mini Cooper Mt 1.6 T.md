@@ -1,16 +1,16 @@
 ## Mini Cooper Mt 1.6 T
 
-### Precio:
+### Precio: $50.900.000
 
 <p>&nbsp;</p>
 
 -----|-----
-**Año** | xxxx
-**KM** | xxxx
-**Placa** | xxxx
-**Puertas** | xxxx
-**Dirección** | xxxx
-**Transmisión** | xxxx
+**Año** | 2012
+**KM** | 33313
+**Placa** | MCP300
+**Puertas** | 3
+**Dirección** | Hidraulica
+**Transmisión** | Mecanica
 
 
 <p>&nbsp;</p>
