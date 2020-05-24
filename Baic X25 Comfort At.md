@@ -1,10 +1,15 @@
 ## Baic X25 Comfort At
 
+### Precio:
 
-<br>**Año**:
-<br>**Placa**:
-<br>**Color**:
-<br>**KM**:
+-----|-----
+**Año** | xxxx
+**KM** | xxxx
+**Placa** | xxxx
+**Puertas** | xxxx
+**Dirección** | xxxx
+**Transmisión** | xxxx
+
 
 <p>&nbsp;</p>
 
