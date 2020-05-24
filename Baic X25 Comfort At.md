@@ -1,10 +1,10 @@
 ## Baic X25 Comfort At
 
 
-**Año**:
-**Placa**:
-**Color**:
-**KM**:
+<br>**Año**:
+<br>**Placa**:
+<br>**Color**:
+<br>**KM**:
 
 <p>&nbsp;</p>
 
