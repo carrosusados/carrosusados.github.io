@@ -1,16 +1,16 @@
 ## Dfsk C 37 X9 Pasajeros 1.5
 
-### Precio:
+### Precio: $52.000.000
 
 <p>&nbsp;</p>
 
 -----|-----
-**Año** | xxxx
-**KM** | xxxx
-**Placa** | xxxx
-**Puertas** | xxxx
-**Dirección** | xxxx
-**Transmisión** | xxxx
+**Año** | 2019
+**KM** | 10500
+**Placa** | FZL872
+**Puertas** | 4
+**Dirección** | Asistida
+**Transmisión** | Mecanica
 
 
 <p>&nbsp;</p>
