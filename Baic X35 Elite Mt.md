@@ -6,8 +6,8 @@
 
 -----|-----
 **Año** | 2018
-**KM** | 10600
-**Placa** | EIW708
+**KM** | 7.800
+**Placa** | EMM392
 **Puertas** | 5
 **Dirección** | Electroasistida
 **Transmisión** | Mecanica
