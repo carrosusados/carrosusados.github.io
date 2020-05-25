@@ -5,7 +5,7 @@ Usados **100% asegurables**, revisión Automás, financiación bancaria, según 
 
 Concesionario con más de 103 años en el mercado nacional, 40 puntos de venta y con presencia en 36 países, importador de Subaru, Jaguar, Land Rover, Mercedes Benz, DFSK, Hino, BAIC, entre otros.
 
-<a href="/usados/images/Perfil/Form.pdf" download="Solicitud Persona Natural Praco">Descarga la Autorización de uso de datos personales </a>
+<a href="/usados/images/Perfil/Form.pdf" download="Solicitud Persona Natural Praco">Descarga la Autorización de Uso de Datos Personales </a>
 
 <p>&nbsp;</p>
 
@@ -21,6 +21,9 @@ Concesionario con más de 103 años en el mercado nacional, 40 puntos de venta y
 
 -----------
 ### ![](/usados/images/Perfil/ford logo.PNG){:height="10%" width="10%"}   Ford [(Ver Catálogo)](/Ford.md)
+
+-----------
+### ![](/usados/images/Perfil/volvo logo.PNG){:height="10%" width="10%"}   Ford [(Ver Catálogo)](/Volvo.md)
 
 -----------
 ### ![](/usados/images/Perfil/nissan logo.PNG){:height="10%" width="10%"}   Nissan [(Ver Catálogo)](/Nissan.md)
