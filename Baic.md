@@ -17,7 +17,7 @@
 ### Baic X35 Elite Mt Blanca [(Ver más fotos)](/usados/Baic X35 Elite Mt Blanca.md)
 #### Precio: $35.000.000
 
-<img src="/usados/images/Baic X35 Elite Mt.jpg?raw=true"/>
+<img src="/usados/images/Baic X35 Elite Mt.jpeg?raw=true"/>
 <p>&nbsp;</p>
 
 
