@@ -1,35 +1,39 @@
-## Subaru Impreza 2.0i 5dr Sport
+## Subaru Forester 2.0L
 
-### Precio: $67.900.000
+### Precio: $68.900.000
 
 
 <p>&nbsp;</p>
 
 -----|-----
 **Año** | 2017
-**KM** | 27550
-**Placa** | DQP835
+**KM** | 15.000
+**Placa** | DVZ609
 **Puertas** | 5
-**Dirección** | Hidraulica
-**Transmisión** | Automatica
+**Dirección** | -
+**Transmisión** | Mecanica
 
 
 <p>&nbsp;</p>
 
-<img src="images/Subaru Impreza 2.0i 5dr Sport - 0.0521.jpg?raw=true"/>
-<img src="images/Subaru Impreza 2.0i 5dr Sport - 0.0772.jpg?raw=true"/>
-<img src="images/Subaru Impreza 2.0i 5dr Sport - 0.1632.jpg?raw=true"/>
-<img src="images/Subaru Impreza 2.0i 5dr Sport - 0.1889.jpg?raw=true"/>
-<img src="images/Subaru Impreza 2.0i 5dr Sport - 0.2052.jpg?raw=true"/>
-<img src="images/Subaru Impreza 2.0i 5dr Sport - 0.2452.jpg?raw=true"/>
-<img src="images/Subaru Impreza 2.0i 5dr Sport - 0.3397.jpg?raw=true"/>
-<img src="images/Subaru Impreza 2.0i 5dr Sport - 0.3832.jpg?raw=true"/>
-<img src="images/Subaru Impreza 2.0i 5dr Sport - 0.3993.jpg?raw=true"/>
-<img src="images/Subaru Impreza 2.0i 5dr Sport - 0.5906.jpg?raw=true"/>
-<img src="images/Subaru Impreza 2.0i 5dr Sport - 0.6163.jpg?raw=true"/>
-<img src="images/Subaru Impreza 2.0i 5dr Sport - 0.7567.jpg?raw=true"/>
-<img src="images/Subaru Impreza 2.0i 5dr Sport - 0.8458.jpg?raw=true"/>
-<img src="images/Subaru Impreza 2.0i 5dr Sport - 0.987.jpg?raw=true"/>
+<img src="images/Subaru Forester 2.0L.jpeg?raw=true"/>
+<img src="images/Subaru Forester 2.0L - 1.jpeg?raw=true"/>
+<img src="images/Subaru Forester 2.0L - 10.jpeg?raw=true"/>
+<img src="images/Subaru Forester 2.0L - 11.jpeg?raw=true"/>
+<img src="images/Subaru Forester 2.0L - 12.jpeg?raw=true"/>
+<img src="images/Subaru Forester 2.0L - 13.jpeg?raw=true"/>
+<img src="images/Subaru Forester 2.0L - 14.jpeg?raw=true"/>
+<img src="images/Subaru Forester 2.0L - 15.jpeg?raw=true"/>
+<img src="images/Subaru Forester 2.0L - 16.jpeg?raw=true"/>
+<img src="images/Subaru Forester 2.0L - 2.jpeg?raw=true"/>
+<img src="images/Subaru Forester 2.0L - 3.jpeg?raw=true"/>
+<img src="images/Subaru Forester 2.0L - 4.jpeg?raw=true"/>
+<img src="images/Subaru Forester 2.0L - 5.jpeg?raw=true"/>
+<img src="images/Subaru Forester 2.0L - 6.jpeg?raw=true"/>
+<img src="images/Subaru Forester 2.0L - 7.jpeg?raw=true"/>
+<img src="images/Subaru Forester 2.0L - 8.jpeg?raw=true"/>
+<img src="images/Subaru Forester 2.0L - 9.jpeg?raw=true"/>
+
 
 
 
