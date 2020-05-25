@@ -5,7 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><b>WhatsApp:</b> 322 946 0270
   <br><b>Contacto Inmediato:</b><a href="https://bit.ly/WA_contactame"> WhatsApp</a>
   <br><a href = "mailto: fernando.jimenez@didacol.com">Contáctame por email</a>
-  <p>&nbsp;</p>
+  <br></br>
   <a href="https://carrosusados.github.io/">Ir a la Página Principal</a>
 
 theme: jekyll-theme-minimal
