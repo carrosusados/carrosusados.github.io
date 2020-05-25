@@ -8,7 +8,7 @@ Concesionario con más de 103 años en el mercado nacional, 40 puntos de venta y
 
 Descarga el Formulario:
 <a href="/usados/images/Perfil/SOLICITUD PERSONA NATURAL praco didacol.pdf" download="Solicitud Persona Natural Praco-Didacol">
-  <img src="/usados/images/Perfil/SOLICITUD PERSONA NATURAL praco didacol.pdf">
+  <p>Formulario</p>
 </a>
 
 <p>&nbsp;</p>
