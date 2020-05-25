@@ -80,7 +80,7 @@
 ## XT Turbo
 
 ---
-### Subaru XT Turbo [(Ver más fotos)](/usados/Subaru XT Turbo)
+### Subaru XT Turbo [(Ver más fotos)](/usados/Subaru XT Turbo.md)
 #### Precio: $68.900.000
 
 <img src="/usados/images/Subaru XT Turbo.jpeg?raw=true"/>
