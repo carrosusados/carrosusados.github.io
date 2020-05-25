@@ -6,10 +6,7 @@ Usados **100% asegurables**, revisión Automás, financiación bancaria, según 
 Concesionario con más de 103 años en el mercado nacional, 40 puntos de venta y con presencia en 36 países, importador de Subaru, Jaguar, Land Rover, Mercedes Benz, DFSK, Hino, BAIC, entre otros.
 <p>&nbsp;</p>
 
-Descarga el Formulario: <a href="/usados/images/Perfil/SOLICITUD PERSONA NATURAL praco didacol.pdf" download="Solicitud Persona Natural Praco-Didacol">
-  <p> Formulario</p>
-</a>
-
+**Descarga el Formulario**:<a href="/usados/images/Perfil/Form.pdf"download="Solicitud Persona Natural Praco"><p> Formulario</p></a>
 
 <p>&nbsp;</p>
 
