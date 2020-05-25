@@ -1,35 +1,39 @@
-## Subaru Impreza 2.0i 5dr Sport
+## Subaru XT Turbo
 
-### Precio: $67.900.000
+### Precio: $86.900.000
 
 
 <p>&nbsp;</p>
 
 -----|-----
 **Año** | 2017
-**KM** | 27550
-**Placa** | DQP835
+**KM** | 39.000
+**Placa** | DNM548
 **Puertas** | 5
-**Dirección** | Hidraulica
-**Transmisión** | Automatica
+**Dirección** | -
+**Transmisión** | -
 
 
 <p>&nbsp;</p>
 
-<img src="images/Subaru Impreza 2.0i 5dr Sport - 0.0521.jpg?raw=true"/>
-<img src="images/Subaru Impreza 2.0i 5dr Sport - 0.0772.jpg?raw=true"/>
-<img src="images/Subaru Impreza 2.0i 5dr Sport - 0.1632.jpg?raw=true"/>
-<img src="images/Subaru Impreza 2.0i 5dr Sport - 0.1889.jpg?raw=true"/>
-<img src="images/Subaru Impreza 2.0i 5dr Sport - 0.2052.jpg?raw=true"/>
-<img src="images/Subaru Impreza 2.0i 5dr Sport - 0.2452.jpg?raw=true"/>
-<img src="images/Subaru Impreza 2.0i 5dr Sport - 0.3397.jpg?raw=true"/>
-<img src="images/Subaru Impreza 2.0i 5dr Sport - 0.3832.jpg?raw=true"/>
-<img src="images/Subaru Impreza 2.0i 5dr Sport - 0.3993.jpg?raw=true"/>
-<img src="images/Subaru Impreza 2.0i 5dr Sport - 0.5906.jpg?raw=true"/>
-<img src="images/Subaru Impreza 2.0i 5dr Sport - 0.6163.jpg?raw=true"/>
-<img src="images/Subaru Impreza 2.0i 5dr Sport - 0.7567.jpg?raw=true"/>
-<img src="images/Subaru Impreza 2.0i 5dr Sport - 0.8458.jpg?raw=true"/>
-<img src="images/Subaru Impreza 2.0i 5dr Sport - 0.987.jpg?raw=true"/>
-
+<img src="images/Subaru XT Turbo.jpeg?raw=true"/>
+<img src="images/Subaru XT  Turbo - 1.jpeg?raw=true"/>
+<img src="images/Subaru XT  Turbo - 10.jpeg?raw=true"/>
+<img src="images/Subaru XT  Turbo - 11.jpeg?raw=true"/>
+<img src="images/Subaru XT  Turbo - 12.jpeg?raw=true"/>
+<img src="images/Subaru XT  Turbo - 13.jpeg?raw=true"/>
+<img src="images/Subaru XT  Turbo - 14.jpeg?raw=true"/>
+<img src="images/Subaru XT  Turbo - 15.jpeg?raw=true"/>
+<img src="images/Subaru XT  Turbo - 16.jpeg?raw=true"/>
+<img src="images/Subaru XT  Turbo - 17.jpeg?raw=true"/>
+<img src="images/Subaru XT  Turbo - 18.jpeg?raw=true"/>
+<img src="images/Subaru XT  Turbo - 19.jpeg?raw=true"/>
+<img src="images/Subaru XT  Turbo - 2.jpeg?raw=true"/>
+<img src="images/Subaru XT  Turbo - 3.jpeg?raw=true"/>
+<img src="images/Subaru XT  Turbo - 4.jpeg?raw=true"/>
+<img src="images/Subaru XT  Turbo - 5.jpeg?raw=true"/>
+<img src="images/Subaru XT  Turbo - 6.jpeg?raw=true"/>
+<img src="images/Subaru XT  Turbo - 7.jpeg?raw=true"/>
+<img src="images/Subaru XT  Turbo - 9.jpeg?raw=true"/>
 
 
