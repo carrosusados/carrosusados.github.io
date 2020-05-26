@@ -2,7 +2,7 @@
 
 <p>&nbsp;</p>
 
-### Dfsk Glory 580 [(Ver más fotos)](/Dfsk Glory 580.md)
+### Dfsk Glory 580 [(Ver más fotos)](/usados/Dfsk Glory 580.md)
 #### Precio: $56.000.000
 
 <img src="/usados/images/Dfsk Glory 580 - 0.5785.jpg?raw=true"/>
