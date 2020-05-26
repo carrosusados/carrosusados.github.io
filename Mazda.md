@@ -2,7 +2,7 @@
 
 <p>&nbsp;</p>
 
-### Mazda 2 Gt Mt 2016 [(Ver más fotos)](/Mazda 2 Gt Mt 2016.md)
+### Mazda 2 Gt Mt 2016 [(Ver más fotos)](/usados/Mazda 2 Gt Mt 2016.md)
 #### Precio: $43.000.000
 
 <img src="/usados/images/Mazda 2 Gt Mt 2016 Kilo-9.000 - 0.8354.jpg?raw=true"/>
