@@ -7,7 +7,7 @@
 -----|-----
 **Año** | 2018
 **KM** | 7.800
-**Placa** | EMM392
+**Placa** | EIW697
 **Puertas** | 5
 **Dirección** | Electroasistida
 **Transmisión** | Mecanica
