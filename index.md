@@ -7,7 +7,9 @@ Concesionario con más de 103 años en el mercado nacional, 40 puntos de venta y
 
 <a href="/usados/images/Perfil/Form.pdf" download="Solicitud Persona Natural Praco">Descarga la Autorización de Uso de Datos Personales </a>
 
-![](/usados/images/Perfil/pp.jpg){:height="30%" width="30%"}  
+<p>&nbsp;</p>
+
+![](/usados/images/Perfil/pp.jpg){:height="45%" width="45%"}  
 Fernando Jiménez, tu Consultor de Negocios
 
 <p>&nbsp;</p>
