@@ -1,6 +1,6 @@
 ## Subaru XT Turbo
 
-### Precio: $86.900.000
+### Precio: $81.900.000
 
 
 <p>&nbsp;</p>
