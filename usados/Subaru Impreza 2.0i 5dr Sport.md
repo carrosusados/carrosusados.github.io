@@ -1,6 +1,6 @@
 ## Subaru Impreza 2.0i 5dr Sport
 
-### Precio: $67.900.000
+### Precio: $63.900.000
 
 
 <p>&nbsp;</p>
