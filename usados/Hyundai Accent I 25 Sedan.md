@@ -1,6 +1,6 @@
 ## Hyundai Accent I 25 Sedan
 
-### Precio: $33.500.000
+### Precio: $29.900.000
 
 <p>&nbsp;</p>
 
