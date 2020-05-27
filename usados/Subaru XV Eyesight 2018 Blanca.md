@@ -1,6 +1,6 @@
 ## Subaru XV Eyesight 2018 Blanca
 
-### Precio: $94.000.000
+### Precio: $90.900.000
 
 
 <p>&nbsp;</p>
