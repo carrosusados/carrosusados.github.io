@@ -37,7 +37,7 @@
 ## XV
 ---
 ### Subaru XV 2.0i-s Es Cvt [(Ver más fotos)](/usados/Subaru Xv 2.0i-s Es Cvt.md)
-#### Precio: $92.900.000
+#### Precio: $86.900.000
 
 <img src="/usados/images/Subaru Xv 2.0i-s Es Cvt - 0.8362.jpg?raw=true"/>
 <p>&nbsp;</p>
@@ -76,12 +76,9 @@
 
 <img src="/usados/images/Subaru Forester 2.0L.jpeg?raw=true"/>
 <p>&nbsp;</p>
-
-## XT Turbo
-
 ---
-### Subaru XT Turbo [(Ver más fotos)](/usados/Subaru XT Turbo.md)
-#### Precio: $68.900.000
+### Subaru Forester XT Turbo [(Ver más fotos)](/usados/Subaru XT Turbo.md)
+#### Precio: $81.900.000
 
 <img src="/usados/images/Subaru XT Turbo.jpeg?raw=true"/>
 <p>&nbsp;</p>
