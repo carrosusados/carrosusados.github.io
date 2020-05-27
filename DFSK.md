@@ -9,7 +9,7 @@
 <p>&nbsp;</p>
 ---
 ### Dfsk Glory 580 7 Pasajeros 2018 [(Ver más fotos)](/usados/Dfsk Glory 580 7 Pasajeros 2018.md)
-#### Precio: $53.500.000
+#### Precio: $46.900.000
 
 <img src="/usados/images/Dfsk Glory 580 7 Pasajeros 2018 - 0.5653.jpg?raw=true"/>
 <p>&nbsp;</p>
