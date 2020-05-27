@@ -1,6 +1,6 @@
 ## Mini Cooper Mt 1.6 T
 
-### Precio: $50.900.000
+### Precio: $45.900.000
 
 <p>&nbsp;</p>
 
