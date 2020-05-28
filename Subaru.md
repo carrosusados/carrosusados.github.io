@@ -4,6 +4,7 @@
 
 
 ## Outback
+<p>&nbsp;</p>
 
 ### Subaru Outback Eyesight 3.6L [(Ver más fotos)](/usados/Subaru Outback Eyesight 3.6L.md)
 #### Precio: $96.900.000
@@ -29,7 +30,7 @@
 
 
 ## XV
-
+<p>&nbsp;</p>
 
 ### Subaru XV Eyesight 2.0[(Ver más fotos)](/usados/Subaru XV Eyesight 2.0 Plata FPR773.md)
 #### Precio: $96.900.000
@@ -102,7 +103,7 @@
 
 
 ## Forester
-
+<p>&nbsp;</p>
 
 ### Subaru Forester XT Turbo [(Ver más fotos)](/usados/Subaru XT Turbo.md)
 #### Precio: $81.900.000
@@ -133,18 +134,27 @@
 
 
 ## Impreza
+<p>&nbsp;</p>
 
----
 ### Subaru Impreza 2.0i 5dr Sport [(Ver más fotos)](/usados/Subaru Impreza 2.0i 5dr Sport.md)
 #### Precio: $63.900.000
 
 <img src="/usados/images/Subaru Impreza 2.0i 5dr Sport - 0.987.jpg?raw=true"/>
 <p>&nbsp;</p>
 
+---
+### Subaru Impreza HB [(Ver más fotos)](/usados/Subaru Impreza HB FQY361.md)
+#### Precio: $63.900.000
+
+<img src="images/Subaru Impreza HB FQY361.jpeg?raw=true"/>
+<p>&nbsp;</p>
+
+
 
 ## Tribeca
+<p>&nbsp;</p>
 
----
+
 ### Subaru Tribeca 3.6 L 7 Pasajeros 4x4 [(Ver más fotos)](/usados/Subaru Tribeca 3.6 L 7 Pasajeros 4x4.md)
 #### Precio: $59.900.000
 
@@ -153,7 +163,7 @@
 
 
 ## Automóvil
-
+<p>&nbsp;</p>
 
 ### Subaru WRX 2.0 Turbo [(Ver más fotos)](/usados/Subaru WRX 2.0 Turbo COD531.md)
 #### Precio: $84.900.000
