@@ -11,7 +11,7 @@ Concesionario con más de 103 años en el mercado nacional, 40 puntos de venta y
 
 ![](/usados/images/Perfil/pp.jpg){:height="45%" width="45%"}  
 **Fernando Jiménez**
-Consultor de Negocios
+<br>Consultor de Negocios
 
 <p>&nbsp;</p>
 
