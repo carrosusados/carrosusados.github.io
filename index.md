@@ -23,7 +23,7 @@ Concesionario con más de 103 años en el mercado nacional, 40 puntos de venta y
 ### ![](/usados/images/Perfil/subaru logo.PNG){:height="10%" width="10%"}   Subaru [(Ver Catálogo)](/Subaru.md)
 
 -----------
-### ![](/usados/images/Perfil/land rover logo.PNG){:height="10%" width="10%"}   Land Rover[(Ver Catálogo)](/Land Rover.md)
+### ![](/usados/images/Perfil/land rover logo.PNG){:height="10%" width="10%"}   Land Rover [(Ver Catálogo)](/Land Rover.md)
 
 -----------
 ### ![](/usados/images/Perfil/baic logo.PNG){:height="10%" width="10%"}   Baic [(Ver Catálogo)](/Baic.md)
