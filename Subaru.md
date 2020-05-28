@@ -83,7 +83,7 @@
 ### Subaru XV CVT [(Ver más fotos)](/usados/Subaru CVT Crema IPY491.md)
 #### Precio: $62.900.000
 
-img src="/usados/images/Subaru CVT Crema IPY491 - 10.jpeg?raw=true"/>
+<img src="/usados/images/Subaru CVT Crema IPY491 - 10.jpeg?raw=true"/>
 <p>&nbsp;</p>
 
 ---

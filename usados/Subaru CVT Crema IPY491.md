@@ -12,7 +12,7 @@
 
 <p>&nbsp;</p>
 
-img src="images/Subaru CVT Crema IPY491 - 10.jpeg?raw=true"/>
+<img src="images/Subaru CVT Crema IPY491 - 10.jpeg?raw=true"/>
 <img src="images/Subaru CVT Crema IPY491 - 11.jpeg?raw=true"/>
 <img src="images/Subaru CVT Crema IPY491 - 12.jpeg?raw=true"/>
 <img src="images/Subaru CVT Crema IPY491 - 13.jpeg?raw=true"/>
