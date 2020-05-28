@@ -23,16 +23,25 @@ Concesionario con más de 103 años en el mercado nacional, 40 puntos de venta y
 ### ![](/usados/images/Perfil/subaru logo.PNG){:height="10%" width="10%"}   Subaru [(Ver Catálogo)](/Subaru.md)
 
 -----------
+### ![](/usados/images/Perfil/land rover logo.PNG){:height="10%" width="10%"}   Land Rover[(Ver Catálogo)](/Land Rover.md)
+
+-----------
 ### ![](/usados/images/Perfil/baic logo.PNG){:height="10%" width="10%"}   Baic [(Ver Catálogo)](/Baic.md)
 
 -----------
 ### ![](/usados/images/Perfil/ford logo.PNG){:height="10%" width="10%"}   Ford [(Ver Catálogo)](/Ford.md)
 
 -----------
+### ![](/usados/images/Perfil/bmw.PNG){:height="10%" width="10%"}   BMW [(Ver Catálogo)](/BMW.md)
+
+-----------
 ### ![](/usados/images/Perfil/volvo logo.PNG){:height="10%" width="10%"}   Volvo [(Ver Catálogo)](/Volvo.md)
 
 -----------
 ### ![](/usados/images/Perfil/nissan logo.PNG){:height="10%" width="10%"}   Nissan [(Ver Catálogo)](/Nissan.md)
+
+-----------
+### ![](/usados/images/Perfil/mercedes logo.PNG){:height="10%" width="10%"}   Mercedes Benz[(Ver Catálogo)](/Mercedes.md)
 
 -----------
 ### ![](/usados/images/Perfil/dfsk logo.PNG){:height="10%" width="10%"}   DFSK [(Ver Catálogo)](/DFSK.md)
