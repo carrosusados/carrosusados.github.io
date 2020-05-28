@@ -32,7 +32,7 @@ Concesionario con más de 103 años en el mercado nacional, 40 puntos de venta y
 ### ![](/usados/images/Perfil/ford logo.PNG){:height="10%" width="10%"}   Ford [(Ver Catálogo)](/Ford.md)
 
 -----------
-### ![](/usados/images/Perfil/bmw.PNG){:height="10%" width="10%"}   BMW [(Ver Catálogo)](/BMW.md)
+### ![](/usados/images/Perfil/bmw logo.PNG){:height="10%" width="10%"}   BMW [(Ver Catálogo)](/BMW.md)
 
 -----------
 ### ![](/usados/images/Perfil/volvo logo.PNG){:height="10%" width="10%"}   Volvo [(Ver Catálogo)](/Volvo.md)
