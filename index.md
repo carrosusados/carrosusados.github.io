@@ -41,7 +41,7 @@ Concesionario con más de 103 años en el mercado nacional, 40 puntos de venta y
 ### ![](/usados/images/Perfil/nissan logo.PNG){:height="10%" width="10%"}   Nissan [(Ver Catálogo)](/Nissan.md)
 
 -----------
-### ![](/usados/images/Perfil/mercedes logo.PNG){:height="10%" width="10%"}   Mercedes Benz[(Ver Catálogo)](/Mercedes.md)
+### ![](/usados/images/Perfil/mercedes logo.PNG){:height="10%" width="10%"}   Mercedes Benz [(Ver Catálogo)](/Mercedes.md)
 
 -----------
 ### ![](/usados/images/Perfil/dfsk logo.PNG){:height="10%" width="10%"}   DFSK [(Ver Catálogo)](/DFSK.md)
