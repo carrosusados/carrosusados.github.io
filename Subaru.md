@@ -15,7 +15,7 @@
 ### Subaru Outback 3.6 LDT [(Ver más fotos)](/usados/Subaru Outback 3.6 LDT JCZ412.md)
 #### Precio: $89.000.000
 
-<img src="images/Subaru Outback 3.6 LDT JCZ412.jpeg?raw=true"/>
+<img src="/usados/images/Subaru Outback 3.6 LDT JCZ412.jpeg?raw=true"/>
 <p>&nbsp;</p>
 
 ---
@@ -34,14 +34,14 @@
 ### Subaru XV Eyesight 2.0[(Ver más fotos)](/usados/Subaru XV Eyesight 2.0 Plata FPR773.md)
 #### Precio: $96.900.000
 
-<img src="images/Subaru XV Eyesight 2.0 Plata FPR773.jpeg?raw=true"/>
+<img src="/usados/images/Subaru XV Eyesight 2.0 Plata FPR773.jpeg?raw=true"/>
 <p>&nbsp;</p>
 
 ---
 ### Subaru XV Eyesight [(Ver más fotos)](/usados/Subaru XV Eyesight Plata FNQ481.md)
 #### Precio: $87.900.000
 
-<img src="images/Subaru XV Eyesight Plata FNQ481.PNG?raw=true"/>
+<img src="/usados/images/Subaru XV Eyesight Plata FNQ481.PNG?raw=true"/>
 <p>&nbsp;</p>
 
 ---
@@ -69,21 +69,21 @@
 ### Subaru XV LTD [(Ver más fotos)](/usados/Subaru XV LTD Blanca IGR017.md)
 #### Precio: $68.900.000
 
-<img src="images/Subaru XV LTD Blanca IGR017.jpeg?raw=true"/>
+<img src="/usados/images/Subaru XV LTD Blanca IGR017.jpeg?raw=true"/>
 <p>&nbsp;</p>
 
 ---
 ### Subaru XV CVT [(Ver más fotos)](/usados/Subaru XV CVT JER015.md)
 #### Precio: $64.900.000
 
-<img src="images/Subaru XV CVT JER015.jpeg?raw=true"/>
+<img src="/usados/images/Subaru XV CVT JER015.jpeg?raw=true"/>
 <p>&nbsp;</p>
 
 ---
 ### Subaru XV CVT [(Ver más fotos)](/usados/Subaru CVT Crema IPY491.md)
 #### Precio: $62.900.000
 
-img src="images/Subaru CVT Crema IPY491 - 10.jpeg?raw=true"/>
+img src="/usados/images/Subaru CVT Crema IPY491 - 10.jpeg?raw=true"/>
 <p>&nbsp;</p>
 
 ---
@@ -114,7 +114,7 @@ img src="images/Subaru CVT Crema IPY491 - 10.jpeg?raw=true"/>
 ### Subaru Forester XT [(Ver más fotos)](/usados/Subaru Forester XT JBL821.md)
 #### Precio: $80.900.000
 
-<img src="images/Subaru Forester XT JBL821.jpeg?raw=true"/>
+<img src="/usados/images/Subaru Forester XT JBL821.jpeg?raw=true"/>
 <p>&nbsp;</p>
 
 ---
@@ -128,7 +128,7 @@ img src="images/Subaru CVT Crema IPY491 - 10.jpeg?raw=true"/>
 ### Subaru Forester MT 2.0 [(Ver más fotos)](/usados/Subaru Forester MT 2.0 JCT606.md)
 #### Precio: $67.900.000
 
-<img src="images/Subaru Forester MT 2.0 JCT606.jpeg?raw=true"/>
+<img src="/usados/images/Subaru Forester MT 2.0 JCT606.jpeg?raw=true"/>
 <p>&nbsp;</p>
 
 
@@ -158,5 +158,5 @@ img src="images/Subaru CVT Crema IPY491 - 10.jpeg?raw=true"/>
 ### Subaru WRX 2.0 Turbo [(Ver más fotos)](/usados/Subaru WRX 2.0 Turbo COD531.md)
 #### Precio: $84.900.000
 
-<img src="images/Subaru WRX 2.0 Turbo COD531.jpeg?raw=true"/>
+<img src="/usados/images/Subaru WRX 2.0 Turbo COD531.jpeg?raw=true"/>
 <p>&nbsp;</p>
