@@ -1,6 +1,6 @@
 ## Land Rover Discovery Sport 2.0 SE
 
-### Precio: $ 104.900.000
+### Precio: $104.900.000
 
 <p>&nbsp;</p>
 

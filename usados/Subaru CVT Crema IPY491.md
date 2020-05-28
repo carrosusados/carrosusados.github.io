@@ -1,6 +1,6 @@
 ## Subaru CVT Crema
 
-### Precio: $ 62.900.000
+### Precio: $62.900.000
 
 <p>&nbsp;</p>
 
@@ -8,9 +8,6 @@
 **Año** | 2016
 **KM** | 53400
 **Placa** | IPY491
-**Puertas** | 5
-**Dirección** | 
-**Transmisión** | 
 
 
 <p>&nbsp;</p>

@@ -1,6 +1,6 @@
 ## Mercedes 1.8 E 200 Cabriolet
 
-### Precio: $ 86.900.000
+### Precio: $86.900.000
 
 <p>&nbsp;</p>
 

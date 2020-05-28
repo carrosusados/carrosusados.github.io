@@ -1,6 +1,6 @@
 ## BMW X3 Drive Gas
 
-### Precio: $ 46.900.000
+### Precio: $46.900.000
 
 <p>&nbsp;</p>
 
