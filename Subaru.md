@@ -146,7 +146,7 @@
 ### Subaru Impreza HB [(Ver más fotos)](/usados/Subaru Impreza HB FQY361.md)
 #### Precio: $63.900.000
 
-<img src="images/Subaru Impreza HB FQY361.jpeg?raw=true"/>
+<img src="/usados/images/Subaru Impreza HB FQY361.jpeg?raw=true"/>
 <p>&nbsp;</p>
 
 
