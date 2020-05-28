@@ -1,4 +1,4 @@
-## -
+## 
 
 ### Precio: $
 
@@ -8,10 +8,6 @@
 **Año** | 
 **KM** | 
 **Placa** | 
-**Puertas** | 
-**Dirección** | 
-**Transmisión** | 
-
 
 <p>&nbsp;</p>
 
