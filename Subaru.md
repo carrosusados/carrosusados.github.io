@@ -74,13 +74,6 @@
 <p>&nbsp;</p>
 
 ---
-### Subaru XV CVT 2017 [(Galería e Información)](/usados/Subaru XV CVT JER015.md)
-#### Precio: $64.900.000
-
-<img src="/usados/images/Subaru XV CVT JER015.jpeg?raw=true"/>
-<p>&nbsp;</p>
-
----
 ### Subaru XV CVT 2016 [(Galería e Información)](/usados/Subaru CVT Crema IPY491.md)
 #### Precio: $62.900.000
 
@@ -161,12 +154,3 @@
 <img src="/usados/images/Subaru Tribeca 3.6 L 7 Pasajeros 4x4 - 0.6932.jpg?raw=true"/>
 <p>&nbsp;</p>
 
-
-## Automóvil
-<p>&nbsp;</p>
-
-### Subaru WRX 2.0 Turbo 2015 [(Galería e Información)](/usados/Subaru WRX 2.0 Turbo COD531.md)
-#### Precio: $84.900.000
-
-<img src="/usados/images/Subaru WRX 2.0 Turbo COD531.jpeg?raw=true"/>
-<p>&nbsp;</p>
