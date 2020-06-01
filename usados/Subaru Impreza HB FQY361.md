@@ -1,11 +1,11 @@
 ## Subaru Impreza HB
 
-### Precio: $63.900.000
+### Precio: $68.900.000
 
 <p>&nbsp;</p>
 
 -----|-----
-**Año** | 2016
+**Año** | 2018
 **KM** | 10.000
 **Placa** | FQY361
 
