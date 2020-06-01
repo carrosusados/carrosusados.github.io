@@ -47,6 +47,9 @@ Concesionario con más de 103 años en el mercado nacional, 40 puntos de venta y
 ### ![](/usados/images/Perfil/dfsk logo.PNG){:height="10%" width="10%"}   DFSK [(Ver Catálogo)](/DFSK.md)
 
 -----------
+### ![](/usados/images/Perfil/jaguar logo.PNG){:height="10%" width="10%"}   Jaguar [(Ver Catálogo)](/Jaguar.md)
+
+-----------
 ### ![](/usados/images/Perfil/mazda logo.PNG){:height="10%" width="10%"}   Mazda [(Ver Catálogo)](/Mazda.md)
 
 -----------

@@ -154,3 +154,10 @@
 <img src="/usados/images/Subaru Tribeca 3.6 L 7 Pasajeros 4x4 - 0.6932.jpg?raw=true"/>
 <p>&nbsp;</p>
 
+---
+### Subaru Tribeca 3.6L 7P 2011 [(Galería e Información)](/usados/SUBARU TRIBECA  3.6 7P RLT566.md)
+#### Precio: $53.900.000
+
+<img src="/usados/images/SUBARU TRIBECA  3.6 7P RLT566.jpeg?raw=true"/>
+<p>&nbsp;</p>
+

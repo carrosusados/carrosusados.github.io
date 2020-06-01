@@ -8,6 +8,21 @@
 <img src="/usados/images/Dfsk Glory 580 - 0.5785.jpg?raw=true"/>
 <p>&nbsp;</p>
 ---
+
+### DFSK VANC 37 X9 1.5 Particular 2019 [(Galería e Información)](/usados/DFSK  VANC 37 X9 1.5 Particular FYT913.md)
+#### Precio: $52.000.000
+
+<img src="/usados/images/DFSK  VANC 37 X9 1.5 Particular FYT913.jpeg?raw=true"/>
+<p>&nbsp;</p>
+---
+
+### DFSK GLORY 580  1.8 2020 [(Galería e Información)](/usados/DFSK GLORY 580  1.8 FYZ126.md)
+#### Precio: $56.000.000
+
+<img src="/usados/images/DFSK GLORY 580  1.8 FYZ126.jpeg?raw=true"/>
+<p>&nbsp;</p>
+---
+
 ### Dfsk Glory 580 7 Pasajeros 2018 [(Galería e Información)](/usados/Dfsk Glory 580 7 Pasajeros 2018.md)
 #### Precio: $46.900.000
 
