@@ -33,7 +33,7 @@
 ### DFSK VANC 37 X9 1.5 Particular 2019 [(Galería e Información)](/usados/DFSK  VANC 37 X9 1.5 Particular FYT913.md)
 #### Precio: $52.000.000
 
-<img src="/usados/images/DFSK  VANC 37 X9 1.5 Particular FYT913 -4.jpeg?raw=true"/>
+<img src="/usados/images/DFSK  VANC 37 X9 1.5 Particular FYT913 - 4.jpeg?raw=true"/>
 <p>&nbsp;</p>
 
 
