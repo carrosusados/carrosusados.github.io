@@ -88,11 +88,6 @@
 <p>&nbsp;</p>
 
 ---
-### Subaru XV Cvt Ltd 2014 [(Galería e Información)](/usados/Subaru Xv Cvt Ltd 2014.md)
-#### Precio: $54.900.000
-
-<img src="/usados/images/Subaru Xv Cvt Ltd 2014 - 0.4846.jpg?raw=true"/>
-<p>&nbsp;</p>
 
 
 ## Forester
