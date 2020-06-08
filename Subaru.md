@@ -6,6 +6,13 @@
 ## Outback
 <p>&nbsp;</p>
 
+### Subaru Outback 3.6 Eyesight 2019 [(Galería e Información)](/usados/Subaru Outback 3.6 Eyesight GKZ003.md)
+#### Precio: $109.900.000
+
+<img src="/usados/images/Subaru Outback 3.6 Eyesight GKZ003.jpg?raw=true"/>
+<p>&nbsp;</p>
+
+---
 ### Subaru Outback Eyesight 3.6L 2018 [(Galería e Información)](/usados/Subaru Outback Eyesight 3.6L.md)
 #### Precio: $96.900.000
 
@@ -36,6 +43,13 @@
 #### Precio: $96.900.000
 
 <img src="/usados/images/Subaru XV Eyesight 2.0 Plata FPR773.jpeg?raw=true"/>
+<p>&nbsp;</p>
+
+---
+### Subaru XV 2.0 Eyesight 4x4 [(Galería e Información)](/usados/Subaru XV 2.0 Eyesight 4x4 DZW785.md)
+#### Precio: $92.900.000
+
+<img src="/usados/images/Subaru XV 2.0 Eyesight 4x4 DZW785.jpg?raw=true"/>
 <p>&nbsp;</p>
 
 ---
@@ -86,8 +100,8 @@
 
 <img src="/usados/images/Subaru XV 2016.jpeg?raw=true"/>
 <p>&nbsp;</p>
-
 ---
+
 
 
 ## Forester
@@ -120,6 +134,29 @@
 <img src="/usados/images/Subaru Forester MT 2.0 JCT606.jpeg?raw=true"/>
 <p>&nbsp;</p>
 
+---
+### Subaru Forester Mecanica 2.0 2017 [(Galería e Información)](/usados/Subaru Forester Mecanica 2.0 JHR501.md)
+#### Precio: $62.900.000
+
+<img src="/usados/images/Subaru Forester Mecanica 2.0 JHR501.jpg?raw=true"/>
+<p>&nbsp;</p>
+
+---
+### Subaru Forester 2.0 Mecanica 2018 [(Galería e Información)](/usados/Subaru Forester Mecanica Awd 2018 EIO870.md)
+#### Precio: $66.900.000
+
+<img src="/usados/images/Subaru Forester Mecanica Awd 2018 EIO870.jpg?raw=true"/>
+<p>&nbsp;</p>
+
+---
+### Subaru Forester 2.0 Premium 2018 [(Galería e Información)](/usados/Subaru Forester 2.0 Premium EHW932.md)
+#### Precio: $77.900.000
+
+<img src="/usados/images/Subaru Forester 2.0 Premium EHW932.jpg?raw=true"/>
+<p>&nbsp;</p>
+
+
+
 
 ## Impreza
 <p>&nbsp;</p>
@@ -147,6 +184,13 @@
 #### Precio: $59.900.000
 
 <img src="/usados/images/Subaru Tribeca 3.6 L 7 Pasajeros 4x4 - 0.6932.jpg?raw=true"/>
+<p>&nbsp;</p>
+
+---
+### Subaru Tribeca 2012 [(Galería e Información)](/usados/Subaru Tribeca NBU310.md)
+#### Precio: $59.900.000
+
+<img src="/usados/images/Subaru Tribeca NBU310.jpg?raw=true"/>
 <p>&nbsp;</p>
 
 ---
