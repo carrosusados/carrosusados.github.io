@@ -9,9 +9,8 @@ Concesionario con más de 103 años en el mercado nacional, 40 puntos de venta y
 
 <p>&nbsp;</p>
 
-![](/usados/images/Perfil/pp.jpg){:height="45%" width="45%"}  
-**Fernando Jiménez**
-<br>Consultor de Negocios
+![](/usados/images/Perfil/Carros seminuevos.gif){:height="100%" width="100%"}  
+
 
 <p>&nbsp;</p>
 
