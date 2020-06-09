@@ -60,6 +60,5 @@ Concesionario con más de 103 años en el mercado nacional, 40 puntos de venta y
 -----------
 ### ![](/usados/images/Perfil/hyundai logo.PNG){:height="10%" width="10%"}   Hyundai [(Ver Catálogo)](/Hyundai.md)
 
------------
-### ![](/usados/images/Perfil/mini cooper logo.PNG){:height="10%" width="10%"}   Mini Cooper [(Ver Catálogo)](/Mini Cooper.md)
+
 
