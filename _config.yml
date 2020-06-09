@@ -8,8 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br></br>
   <a href="https://carrosusados.github.io/">Ir a la Página Principal</a>
 social:
-	links:
-		- "https://www.facebook.com/Venta-de-carros-Seminuevos-112985213773925/"
+"https://www.facebook.com/Venta-de-carros-Seminuevos-112985213773925/"
 
 theme: jekyll-theme-minimal
 google_analytics: UA-167589877-1 # your Google Analytics tracking ID here
