@@ -8,8 +8,8 @@
 **Año** | 2020
 **KM** | 11.300
 **Placa** | FZQ544
-Transmisión | 4x4
-Cilindrada | 2 Litros
+**Transmisión** | 4x4
+**Cilindrada** | 2 Litros
 
 <p>&nbsp;</p>
 
