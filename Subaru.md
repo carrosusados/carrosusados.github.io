@@ -46,7 +46,7 @@
 <p>&nbsp;</p>
 
 ---
-### Subaru XV 2.0 Eyesight 4x4 [(Galería e Información)](/usados/Subaru XV 2.0 Eyesight 4x4 DZW785.md)
+### Subaru XV 2.0 Eyesight 4x4 2018 [(Galería e Información)](/usados/Subaru XV 2.0 Eyesight 4x4 DZW785.md)
 #### Precio: $92.900.000
 
 <img src="/usados/images/Subaru XV 2.0 Eyesight 4x4 DZW785.jpg?raw=true"/>
