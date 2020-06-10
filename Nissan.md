@@ -3,8 +3,8 @@
 <p>&nbsp;</p>
 
 
-### Nissan Advance 4x2 AT 2019 [(Galería e Información)](/usados/Nissan Advance 4x2 AT EPR510.md)
-#### Precio: $ 80.900.000
+### Nissan Qashqai Advance 4X4 AT 2019 [(Galería e Información)](/usados/Nissan Advance 4x2 AT EPR510.md)
+#### Precio: $ 80.900.000 | 13.500 Km
 
 <img src="/usados/images/Nissan Advance 4x2 AT EPR510.jpg?raw=true"/>
 <p>&nbsp;</p>
