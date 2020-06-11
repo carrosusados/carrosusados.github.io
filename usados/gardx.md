@@ -1,7 +1,7 @@
 ![](/usados/images/Perfil/gardx img3.PNG)
 
 
-El sistema de protección para vehículos GardX con una potente nanotecnología forma un revestimiento protector altamente resistente sobre la pintura que lo protege de los contaminantes ambientales y proporciona un espectacular acabado de alto brillo que conserva su aspecto de lavado tras lavado.
+El sistema de protección con una potente nanotecnología forma un revestimiento protector altamente resistente sobre la pintura que lo protege de los contaminantes ambientales y proporciona un espectacular acabado de alto brillo que conserva su aspecto de lavado tras lavado.
 
 ## Beneficios
 
@@ -10,6 +10,12 @@ El sistema de protección para vehículos GardX con una potente nanotecnología 
 * Protege el valor de reventa futuro de su vehículo.
 * Mejora la seguridad y la visibilidad en condiciones de conducción con lluvia.
 * Proporciona una garantía de 3 años para pintura, cuero y telas.
+
+### Precio: $ 1.200.000
+
+El procedimiento se realiza directamente por profesionales en concesionario
+
+Contáctanos al **322 946 0270**
 
 
 
