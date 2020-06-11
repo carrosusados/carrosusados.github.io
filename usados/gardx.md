@@ -20,7 +20,8 @@ El procedimiento se realiza directamente por profesionales en concesionario.
 Contáctanos al **322 946 0270**
 
 
- * Content Cell  * Content Cell
+ * Content Cell  | * Content Cell
 ------
- * Content Cell * Content Cell  
+
+ * Content Cell | * Content Cell  
 
