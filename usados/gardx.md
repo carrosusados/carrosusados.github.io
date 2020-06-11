@@ -1,7 +1,7 @@
 ![](/usados/images/Perfil/gardx img3.PNG)
 
 
-El sistema de protección con una potente nanotecnología forma un revestimiento protector altamente resistente sobre la pintura que lo protege de los contaminantes ambientales y proporciona un espectacular acabado de alto brillo que conserva su aspecto de lavado tras lavado.
+El sistema de protección con una potente **nanotecnología** forma un revestimiento protector altamente resistente sobre la pintura que lo protege de los contaminantes ambientales y proporciona un espectacular acabado de alto brillo que conserva su aspecto de lavado tras lavado.
 
 ## Beneficios
 
@@ -9,7 +9,7 @@ El sistema de protección con una potente nanotecnología forma un revestimiento
 * Guarda su pintura e interior.
 * Protege el valor de reventa futuro de su vehículo.
 * Mejora la seguridad y la visibilidad en condiciones de conducción con lluvia.
-* Proporciona una garantía de 3 años para pintura, cuero y telas.
+* Proporciona una **garantía de 3 años** para pintura, cuero y telas.
 
 ### Precio: $ 1.200.000
 
