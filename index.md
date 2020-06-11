@@ -17,19 +17,19 @@ Concesionario con más de **103 años** en el mercado nacional, **40 puntos** de
 ## Catálogo de Marcas
 
 |:---   |:---   |
-| ![](/usados/images/Perfil/subaru logo.PNG){:height="10%" width="20%"}   [<font size="+2">Subaru</font>](/Subaru.md) | ![](/usados/images/Perfil/land rover logo.PNG){:height="10%" width="20%"} [Land Rover](/Land Rover.md) |
+| ![](/usados/images/Perfil/subaru logo.PNG){:height="10%" width="20%"}   [<font size="+1">Subaru</font>](/Subaru.md) | ![](/usados/images/Perfil/land rover logo.PNG){:height="10%" width="20%"} [<font size="+1">Land Rover</font>](/Land Rover.md) |
 
-| ![](/usados/images/Perfil/baic logo.PNG){:height="10%" width="20%"}   [BAIC](/Baic.md) | ![](/usados/images/Perfil/ford logo.PNG){:height="10%" width="20%"}   [Ford](/Ford.md) |
+| ![](/usados/images/Perfil/baic logo.PNG){:height="10%" width="20%"}   [<font size="+1">BAIC</font>](/Baic.md) | ![](/usados/images/Perfil/ford logo.PNG){:height="10%" width="20%"}   [<font size="+1">Ford</font>](/Ford.md) |
 
-| ![](/usados/images/Perfil/bmw logo.PNG){:height="10%" width="20%"}   [BMW](/BMW.md) | ![](/usados/images/Perfil/nissan logo.PNG){:height="10%" width="20%"}   [Nissan](/Nissan.md) |
+| ![](/usados/images/Perfil/bmw logo.PNG){:height="10%" width="20%"}   [<font size="+1">BMW</font>](/BMW.md) | ![](/usados/images/Perfil/nissan logo.PNG){:height="10%" width="20%"}   [<font size="+1">Nissan</font>](/Nissan.md) |
 
-| ![](/usados/images/Perfil/toyota logo.PNG){:height="10%" width="20%"}   [Toyota](/Toyota.md) | ![](/usados/images/Perfil/mercedes logo.PNG){:height="10%" width="15%"}   [Mercedes](/Mercedes.md) |
+| ![](/usados/images/Perfil/toyota logo.PNG){:height="10%" width="20%"}   [<font size="+1">Toyota</font>](/Toyota.md) | ![](/usados/images/Perfil/mercedes logo.PNG){:height="10%" width="15%"}   [<font size="+1">Mercedes</font>](/Mercedes.md) |
 
-| ![](/usados/images/Perfil/dfsk logo.PNG){:height="10%" width="20%"}   [DFSK](/DFSK.md) | ![](/usados/images/Perfil/jaguar logo.PNG){:height="10%" width="20%"}   [Jaguar](/Jaguar.md) |
+| ![](/usados/images/Perfil/dfsk logo.PNG){:height="10%" width="20%"}   [<font size="+1">DFSK</font>](/DFSK.md) | ![](/usados/images/Perfil/jaguar logo.PNG){:height="10%" width="20%"}   [<font size="+1">Jaguar</font>](/Jaguar.md) |
 
-| ![](/usados/images/Perfil/mazda logo.PNG){:height="10%" width="20%"}   [Mazda](/Mazda.md) | ![](/usados/images/Perfil/vw logo.PNG){:height="10%" width="15%"}   [Volkswagen](/Volkswagen.md) |
+| ![](/usados/images/Perfil/mazda logo.PNG){:height="10%" width="20%"}   [<font size="+1">Mazda</font>](/Mazda.md) | ![](/usados/images/Perfil/vw logo.PNG){:height="10%" width="15%"}   [<font size="+1">Volkswagen</font>](/Volkswagen.md) |
 
-| ![](/usados/images/Perfil/renault logo.PNG){:height="10%" width="20%"}   [Renault](/Renault.md) | ![](/usados/images/Perfil/hyundai logo.PNG){:height="10%" width="20%"}   [Hyundai](/Hyundai.md) |
+| ![](/usados/images/Perfil/renault logo.PNG){:height="10%" width="20%"}   [<font size="+1">Renault</font>](/Renault.md) | ![](/usados/images/Perfil/hyundai logo.PNG){:height="10%" width="20%"}   [<font size="+1">Hyundai</font>](/Hyundai.md) |
 
 
 <p>&nbsp;</p>
