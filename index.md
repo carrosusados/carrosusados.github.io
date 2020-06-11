@@ -34,9 +34,12 @@ Concesionario con más de **103 años** en el mercado nacional, **40 puntos** de
 
 <p>&nbsp;</p>
 
-## SISTEMA DE PROTECCIÓN PARA SU VEHÍCULO
-### PROTEGE EL EXTERIOR E INTERIOR DE SU VEHÍCULO
+## SISTEMA DE PROTECCIÓN PARA TU VEHÍCULO
+### Protege el exterior e interior de tu vehículo
 ![](/usados/images/Perfil/gardx img3.PNG)
+
+#### ¡Es posible que nunca necesite pulir su vehículo otra vez! [Clic para más información!](/gardx.md)
+
 
 <p>&nbsp;</p>
 
