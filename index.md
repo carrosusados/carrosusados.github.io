@@ -19,7 +19,7 @@ Concesionario con más de **103 años** en el mercado nacional, **40 puntos** de
 -----------
 
 
-### ![](/usados/images/Perfil/subaru logo.PNG){:height="10%" width="10%"}   [Subaru](/Subaru.md) &nbsp; ![](/usados/images/Perfil/land rover logo.PNG){:height="10%" width="10%"} [Land Rover](/Land Rover.md)
+### ![](/usados/images/Perfil/subaru logo.PNG){:height="10%" width="10%"}   [Subaru](/Subaru.md) &nbsp; &nbsp; &nbsp; ![](/usados/images/Perfil/land rover logo.PNG){:height="10%" width="10%"} [Land Rover](/Land Rover.md)
 
 
 -----------
