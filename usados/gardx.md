@@ -12,14 +12,11 @@ El sistema de protección con una potente **nanotecnología** forma un revestimi
 * Proporciona una **garantía de 3 años** para pintura, cuero y telas.
 
 <p>&nbsp;</p>
-
+-----
 ### Precio: $ 1.200.000
 
 El procedimiento se realiza directamente por profesionales en concesionario.
 
 Contáctanos al **322 946 0270**
 
-
- - Content Cell  | - Content Cell
-------
 
