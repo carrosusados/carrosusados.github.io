@@ -16,10 +16,10 @@ Concesionario con más de **103 años** en el mercado nacional, **40 puntos** de
 
 ## Catálogo de Marcas
 
--------|-------
-![](/usados/images/Perfil/subaru logo.PNG){:height="10%" width="10%"}   [Subaru](/Subaru.md) | ![](/usados/images/Perfil/land rover logo.PNG){:height="10%" width="10%"} [Land Rover](/Land Rover.md)
+-------|-------|
+![](/usados/images/Perfil/subaru logo.PNG){:height="10%" width="20%"}   [Subaru](/Subaru.md) | ![](/usados/images/Perfil/land rover logo.PNG){:height="10%" width="20%"} [Land Rover](/Land Rover.md)
 
--------|-------
+-------|-------|
 ![](/usados/images/Perfil/baic logo.PNG){:height="10%" width="20%"}   [Baic](/Baic.md) | ![](/usados/images/Perfil/ford logo.PNG){:height="10%" width="20%"}   [Ford](/Ford.md)
 
 -------|-------
