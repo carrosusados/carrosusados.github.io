@@ -38,7 +38,7 @@ Concesionario con más de **103 años** en el mercado nacional, **40 puntos** de
 ### Protege el exterior e interior de tu vehículo
 ![](/usados/images/Perfil/gardx img3.PNG)
 
-#### ¡Es posible que nunca necesite pulir su vehículo otra vez! 
+#### ¡Es posible que nunca necesites pulir tu vehículo otra vez! 
 
 [Clic para más información!](/usados/gardx.md)
 
