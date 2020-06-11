@@ -5,8 +5,6 @@ Usados **100% asegurables**, revisión Automás, financiación bancaria, según 
 
 Concesionario con más de **103 años** en el mercado nacional, **40 puntos** de venta y con presencia en **36 países**, importador de Subaru, Jaguar, Land Rover, Mercedes Benz, DFSK, Hino, BAIC, entre otros.
 
-<a href="/usados/images/Perfil/Form.pdf" download="Solicitud Persona Natural Praco">Descarga la Autorización de Uso de Datos Personales </a>
-
 <p>&nbsp;</p>
 
 ### Los mejores Carros a los Mejores Precios
@@ -36,9 +34,6 @@ Concesionario con más de **103 años** en el mercado nacional, **40 puntos** de
 ### ![](/usados/images/Perfil/bmw logo.PNG){:height="10%" width="10%"}   BMW [(Ver Catálogo)](/BMW.md)
 
 -----------
-### ![](/usados/images/Perfil/volvo logo.PNG){:height="10%" width="10%"}   Volvo [(Ver Catálogo)](/Volvo.md)
-
------------
 ### ![](/usados/images/Perfil/nissan logo.PNG){:height="10%" width="10%"}   Nissan [(Ver Catálogo)](/Nissan.md)
 
 -----------
@@ -65,4 +60,11 @@ Concesionario con más de **103 años** en el mercado nacional, **40 puntos** de
 -----------
 ### ![](/usados/images/Perfil/hyundai logo.PNG){:height="10%" width="10%"}   Hyundai [(Ver Catálogo)](/Hyundai.md)
 
+-----------
+<p>&nbsp;</p>
 
+![](/usados/images/Perfil/gardx img3.PNG)
+
+<p>&nbsp;</p>
+
+<a href="/usados/images/Perfil/Form.pdf" download="Solicitud Persona Natural Praco">Descarga la Autorización de Uso de Datos Personales </a>
