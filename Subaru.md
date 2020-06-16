@@ -55,7 +55,7 @@
 <p>&nbsp;</p>
 
 ---
-### Subaru XV Eyesight 2018 [(Galería e Información)](/usados/Subaru XV Eyesight 2018 Blanca.md)
+### Subaru XV Eyesight 2018 [(Galería e Información)](/usados/Subaru XV Eyesight 2018 FPW583.md)
 #### Precio: $90.900.000
 
 <img src="/usados/images/Subaru XV Eyesight 2018 Blanca.jpeg?raw=true"/>
