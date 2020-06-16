@@ -13,13 +13,6 @@
 <p>&nbsp;</p>
 
 ---
-### Subaru Outback Eyesight 3.6L 2018 [(Galería e Información)](/usados/Subaru Outback Eyesight 3.6L.md)
-#### Precio: $96.900.000
-
-<img src="/usados/images/Subaru Outback Eyesight 3.6L.jpeg?raw=true"/>
-<p>&nbsp;</p>
-
----
 ### Subaru Outback 3.6 LDT 2016 [(Galería e Información)](/usados/Subaru Outback 3.6 LDT JCZ412.md)
 #### Precio: $89.000.000
 
@@ -27,11 +20,6 @@
 <p>&nbsp;</p>
 
 ---
-### Subaru Outback 3.6r Ltd 2017 [(Galería e Información)](/usados/Subaru Outback 3.6r Ltd.md)
-#### Precio: $77.900.000
-
-<img src="/usados/images/Subaru Outback 3.6r Ltd - 0.1514.jpg?raw=true"/>
-<p>&nbsp;</p>
 
 
 
@@ -50,13 +38,6 @@
 #### Precio: $92.900.000
 
 <img src="/usados/images/Subaru XV 2.0 Eyesight 4x4 DZW785.jpg?raw=true"/>
-<p>&nbsp;</p>
-
----
-### Subaru XV Eyesight 2018 [(Galería e Información)](/usados/Subaru XV Eyesight Plata FNQ481.md)
-#### Precio: $87.900.000
-
-<img src="/usados/images/Subaru XV Eyesight Plata FNQ481.PNG?raw=true"/>
 <p>&nbsp;</p>
 
 ---
