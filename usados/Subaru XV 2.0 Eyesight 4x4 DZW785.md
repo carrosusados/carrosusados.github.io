@@ -1,6 +1,6 @@
 ## Subaru XV 2.0 Eyesight 4x4
 
-### Precio: $92.900.000
+### Precio: $88.900.000
 
 <p>&nbsp;</p>
 

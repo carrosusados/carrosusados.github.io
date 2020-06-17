@@ -9,7 +9,7 @@
 <p>&nbsp;</p>
 ---
 ### Volkswagen Crossfox Mt 2015 [(Galería e Información)](/usados/Volkswagen Crossfox Mt 2015.md)
-#### Precio: $35.900.000
+#### Precio: $33.900.000
 
 <img src="/usados/images/Volkswagen Crossfox Mt 2015 - 0.9703.jpg?raw=true"/>
 <p>&nbsp;</p>

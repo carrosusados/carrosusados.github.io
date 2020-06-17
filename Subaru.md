@@ -35,28 +35,28 @@
 
 ---
 ### Subaru XV 2.0 Eyesight 4x4 2018 [(Galería e Información)](/usados/Subaru XV 2.0 Eyesight 4x4 DZW785.md)
-#### Precio: $92.900.000
+#### Precio: $88.900.000
 
 <img src="/usados/images/Subaru XV 2.0 Eyesight 4x4 DZW785.jpg?raw=true"/>
 <p>&nbsp;</p>
 
 ---
 ### Subaru XV 2.0i-s Es Cvt 2018 [(Galería e Información)](/usados/Subaru Xv 2.0i-s Es Cvt.md)
-#### Precio: $86.900.000
+#### Precio: $88.900.000
 
 <img src="/usados/images/Subaru Xv 2.0i-s Es Cvt - 0.8362.jpg?raw=true"/>
 <p>&nbsp;</p>
 
 ---
 ### Subaru XV Eyesight 2018 [(Galería e Información)](/usados/Subaru XV Eyesight 2018.md)
-#### Precio: $89.900.000
+#### Precio: $84.900.000
 
 <img src="/usados/images/Subaru XV Eyesight 2018.jpeg?raw=true"/>
 <p>&nbsp;</p>
 
 ---
 ### Subaru XV Eyesight 2018 [(Galería e Información)](/usados/Subaru XV Eyesight 2018 FPW583.md)
-#### Precio: $90.900.000
+#### Precio: $85.900.000
 
 <img src="/usados/images/Subaru XV Eyesight 2018 Blanca.jpeg?raw=true"/>
 <p>&nbsp;</p>
@@ -70,7 +70,7 @@
 
 ---
 ### Subaru XV LTD 2017 [(Galería e Información)](/usados/Subaru XV LTD Blanca IGR017.md)
-#### Precio: $68.900.000
+#### Precio: $67.900.000
 
 <img src="/usados/images/Subaru XV LTD Blanca IGR017 - 17.jpeg?raw=true"/>
 <p>&nbsp;</p>
@@ -103,7 +103,7 @@
 
 ---
 ### Subaru Forester XT 2017 [(Galería e Información)](/usados/Subaru Forester XT JBL821.md)
-#### Precio: $80.900.000
+#### Precio: $82.900.000
 
 <img src="/usados/images/Subaru Forester XT JBL821.jpeg?raw=true"/>
 <p>&nbsp;</p>
@@ -124,14 +124,14 @@
 
 ---
 ### Subaru Forester Mecanica 2.0 2017 [(Galería e Información)](/usados/Subaru Forester Mecanica 2.0 JHR501.md)
-#### Precio: $62.900.000
+#### Precio: $65.900.000
 
 <img src="/usados/images/Subaru Forester Mecanica 2.0 JHR501.jpg?raw=true"/>
 <p>&nbsp;</p>
 
 ---
 ### Subaru Forester 2.0 Mecanica 2018 [(Galería e Información)](/usados/Subaru Forester Mecanica Awd 2018 EIO870.md)
-#### Precio: $66.900.000
+#### Precio: $67.900.000
 
 <img src="/usados/images/Subaru Forester Mecanica Awd 2018 EIO870.jpg?raw=true"/>
 <p>&nbsp;</p>
@@ -150,14 +150,14 @@
 <p>&nbsp;</p>
 
 ### Subaru Impreza 2.0i 5dr Sport 2017 [(Galería e Información)](/usados/Subaru Impreza 2.0i 5dr Sport.md)
-#### Precio: $63.900.000
+#### Precio: $64.900.000
 
 <img src="/usados/images/Subaru Impreza 2.0i 5dr Sport - 0.987.jpg?raw=true"/>
 <p>&nbsp;</p>
 
 ---
 ### Subaru Impreza HB 2018 [(Galería e Información)](/usados/Subaru Impreza HB FQY361.md)
-#### Precio: $68.900.000
+#### Precio: $67.900.000
 
 <img src="/usados/images/Subaru Impreza HB FQY361.jpeg?raw=true"/>
 <p>&nbsp;</p>

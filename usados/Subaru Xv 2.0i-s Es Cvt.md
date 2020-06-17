@@ -1,6 +1,6 @@
 ## Subaru Xv 2.0i-s Es Cvt
 
-### Precio: $86.900.000
+### Precio: $88.900.000
 
 <p>&nbsp;</p>
 

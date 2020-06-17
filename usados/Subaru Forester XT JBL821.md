@@ -1,6 +1,6 @@
 ## Subaru Forester XT
 
-### Precio: $80.900.000
+### Precio: $82.900.000
 
 <p>&nbsp;</p>
 

@@ -1,6 +1,6 @@
 ## Subaru Forester Mecanica Awd
 
-### Precio: $66.900.000
+### Precio: $67.900.000
 
 <p>&nbsp;</p>
 
