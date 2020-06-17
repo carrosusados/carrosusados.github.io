@@ -32,7 +32,6 @@ Concesionario con más de **103 años** en el mercado nacional, **40 puntos** de
 | ![](/usados/images/Perfil/renault logo.PNG){:height="10%" width="20%"}   [<font size="+1">Renault</font>](/Renault.md) | ![](/usados/images/Perfil/hyundai logo.PNG){:height="10%" width="20%"}   [<font size="+1">Hyundai</font>](/Hyundai.md)
 
 | ![](/usados/images/Perfil/chev logo.PNG){:height="10%" width="20%"}   [<font size="+1">Chevrolet</font>](/Chevrolet.md) | ![](/usados/images/Perfil/volvo logo.PNG){:height="10%" width="20%"}   [<font size="+1">Volvo</font>](/Volvo.md) 
-|
 
 
 <p>&nbsp;</p>
