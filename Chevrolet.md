@@ -2,7 +2,7 @@
 
 <p>&nbsp;</p>
 
-### CHEVROLET CAPTIVA 2.4 SPORT 2017 [(Galería e Información)](/usados/Ford Explorer 3.5 Limited EFX358.md)
+### CHEVROLET CAPTIVA 2.4 SPORT 2017 [(Galería e Información)](/usados/CHEVROLET CAPTIVA 2.4 SPORT NO TECHO DQS818.md)
 #### Precio: $49.900.000 | 32.000 KM
 
 <img src="/usados/images/CHEVROLET CAPTIVA 2.4 SPORT NO TECHO DQS818.jpeg?raw=true"/>
