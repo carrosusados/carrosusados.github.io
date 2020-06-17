@@ -62,6 +62,13 @@
 <p>&nbsp;</p>
 
 ---
+### Subaru XV Style 2019 [(Galería e Información)](/usados/SUBARU XV STYLE GLO746.md)
+#### Precio: $85.900.000
+
+<img src="/usados/images/SUBARU XV STYLE GLO746.jpeg?raw=true"/>
+<p>&nbsp;</p>
+
+---
 ### Subaru XV LTD 2017 [(Galería e Información)](/usados/Subaru XV LTD Blanca IGR017.md)
 #### Precio: $68.900.000
 
@@ -180,4 +187,12 @@
 
 <img src="/usados/images/SUBARU TRIBECA  3.6 7P RLT566.jpeg?raw=true"/>
 <p>&nbsp;</p>
+
+---
+### Subaru Tribeca 3.6L 7P 2011 [(Galería e Información)](/usados/SUBARU TRIBECA 3.6 7P RGT123.md)
+#### Precio: $41.900.000
+
+<img src="/usados/images/SUBARU TRIBECA 3.6 7P RGT123.jpeg?raw=true"/>
+<p>&nbsp;</p>
+
 

@@ -9,6 +9,14 @@
 <p>&nbsp;</p>
 ---
 
+### DFSK GLORY 560 2018 [(Galería e Información)](/usados/DFSK GLORY 560 FZT375.md)
+#### Precio: $52.000.000
+
+<img src="/usados/images/DFSK GLORY 560 FZT375.jpeg?raw=true"/>
+<p>&nbsp;</p>
+---
+
+
 ### Dfsk Glory 580 7 Pasajeros 2018 [(Galería e Información)](/usados/Dfsk Glory 580 7 Pasajeros 2018.md)
 #### Precio: $46.900.000
 
@@ -28,5 +36,6 @@
 
 <img src="/usados/images/DFSK  VANC 37 X9 1.5 Particular FYT913 - 4.jpeg?raw=true"/>
 <p>&nbsp;</p>
+
 
 
