@@ -38,7 +38,7 @@ Concesionario con más de **103 años** en el mercado nacional, **40 puntos** de
 <p>&nbsp;</p>
 
 ## Sistema de Protección para tu Vehículo
-![](/usados/images/Perfil/gardx_vid.gif)
+![](/usados/images/Perfil/gardx video.gif)
 
 #### ¡Es posible que nunca necesites pulir tu vehículo otra vez! 
 

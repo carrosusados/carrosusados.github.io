@@ -1,6 +1,6 @@
 ## SUBARU TRIBECA  3.6 7P
 
-### Precio: $53.900.000
+### Precio: $49.900.000
 
 <p>&nbsp;</p>
 
