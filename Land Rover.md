@@ -2,7 +2,7 @@
 
 <p>&nbsp;</p>
 
-### Range Rover Evoque 2019 [(Galería e Información)](/usados/Land Rover Blue.md)
+### Range Rover Evoque 2018 [(Galería e Información)](/usados/Land Rover Blue.md)
 #### Precio: $ 157.900.000
 
 <img src="/usados/images/Land Rover Blue.jpeg?raw=true"/>
