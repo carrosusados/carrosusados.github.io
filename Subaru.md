@@ -152,7 +152,7 @@
 ### Subaru Impreza 2.0i 5dr Sport 2017 [(Galería e Información)](/usados/Subaru Impreza 2.0i 5dr Sport.md)
 #### Precio: $61.900.000
 
-<img src="/usados/images/Subaru Impreza 2.0i 5dr Sport - 0.987.jpg?raw=true"/>
+<img src="/usados/images/impreza DQP835.jpg?raw=true"/>
 <p>&nbsp;</p>
 
 ---
