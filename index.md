@@ -1,4 +1,4 @@
-## Carros Semi-Nuevos
+## Carros Usados
 
 -----------
 Usados **100% asegurables**, revisión Automás, financiación bancaria, según perfil, del **100% del vehículo**.
@@ -35,15 +35,3 @@ Concesionario con más de **103 años** en el mercado nacional, **40 puntos** de
 
 
 <p>&nbsp;</p>
-
-## Sistema de Protección para tu Vehículo
-![](/usados/images/Perfil/gardx video.gif)
-
-#### ¡Es posible que nunca necesites pulir tu vehículo otra vez! 
-
-[Clic para más información!](/usados/gardx.md)
-
-
-<p>&nbsp;</p>
-
-<a href="/usados/images/Perfil/Form.pdf" download="Solicitud Persona Natural Praco">Descarga la Autorización de Uso de Datos Personales </a>
