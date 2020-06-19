@@ -190,7 +190,7 @@
 
 ---
 ### Subaru Tribeca 3.6L 7P 2011 [(Galería e Información)](/usados/SUBARU TRIBECA 3.6 7P RGT123.md)
-#### Precio: $41.900.000
+#### Precio: $42.900.000
 
 <img src="/usados/images/SUBARU TRIBECA 3.6 7P RGT123.jpeg?raw=true"/>
 <p>&nbsp;</p>
