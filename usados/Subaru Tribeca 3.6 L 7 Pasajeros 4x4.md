@@ -1,6 +1,6 @@
 ## Subaru Tribeca 3.6 L 7 Pasajeros 4x4
 
-### Precio: $59.900.000
+### Precio: $60.900.000
 
 <p>&nbsp;</p>
 

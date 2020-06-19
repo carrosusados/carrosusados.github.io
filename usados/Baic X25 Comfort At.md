@@ -1,6 +1,6 @@
 ## Baic X25 Comfort At
 
-### Precio: $$33.500.000
+### Precio: $$32.900.000
 
 <p>&nbsp;</p>
 

@@ -1,6 +1,6 @@
 ## Subaru XV LTD
 
-### Precio: $67.900.000
+### Precio: $66.900.000
 
 <p>&nbsp;</p>
 

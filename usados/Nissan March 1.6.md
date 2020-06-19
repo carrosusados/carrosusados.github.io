@@ -1,6 +1,6 @@
 ## Nissan March 1.6
 
-### Precio: $25.900.000
+### Precio: $23.900.000
 
 <p>&nbsp;</p>
 

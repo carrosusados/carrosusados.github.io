@@ -1,6 +1,6 @@
 ## Toyota 4 Runner
 
-### Precio: $139.900.000
+### Precio: $138.900.000
 
 <p>&nbsp;</p>
 

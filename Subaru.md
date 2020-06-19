@@ -103,7 +103,7 @@
 
 ---
 ### Subaru Forester XT 2017 [(Galería e Información)](/usados/Subaru Forester XT JBL821.md)
-#### Precio: $82.900.000
+#### Precio: $78.900.000
 
 <img src="/usados/images/Subaru Forester XT JBL821.jpeg?raw=true"/>
 <p>&nbsp;</p>
@@ -124,14 +124,14 @@
 
 ---
 ### Subaru Forester Mecanica 2.0 2017 [(Galería e Información)](/usados/Subaru Forester Mecanica 2.0 JHR501.md)
-#### Precio: $65.900.000
+#### Precio: $60.900.000
 
 <img src="/usados/images/Subaru Forester Mecanica 2.0 JHR501.jpg?raw=true"/>
 <p>&nbsp;</p>
 
 ---
 ### Subaru Forester 2.0 Mecanica 2018 [(Galería e Información)](/usados/Subaru Forester Mecanica Awd 2018 EIO870.md)
-#### Precio: $67.900.000
+#### Precio: $63.900.000
 
 <img src="/usados/images/Subaru Forester Mecanica Awd 2018 EIO870.jpg?raw=true"/>
 <p>&nbsp;</p>
@@ -150,7 +150,7 @@
 <p>&nbsp;</p>
 
 ### Subaru Impreza 2.0i 5dr Sport 2017 [(Galería e Información)](/usados/Subaru Impreza 2.0i 5dr Sport.md)
-#### Precio: $64.900.000
+#### Precio: $61.900.000
 
 <img src="/usados/images/Subaru Impreza 2.0i 5dr Sport - 0.987.jpg?raw=true"/>
 <p>&nbsp;</p>
@@ -169,7 +169,7 @@
 
 
 ### Subaru Tribeca 3.6 L 7 Pasajeros 4x4 2013 [(Galería e Información)](/usados/Subaru Tribeca 3.6 L 7 Pasajeros 4x4.md)
-#### Precio: $59.900.000
+#### Precio: $60.900.000
 
 <img src="/usados/images/Subaru Tribeca 3.6 L 7 Pasajeros 4x4 - 0.6932.jpg?raw=true"/>
 <p>&nbsp;</p>

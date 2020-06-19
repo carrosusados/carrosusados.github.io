@@ -1,6 +1,6 @@
 ## Volkswagen Crossfox Mt 2015
 
-### Precio: $ 33.900.000
+### Precio: $ 34.900.000
 
 <p>&nbsp;</p>
 

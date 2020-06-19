@@ -9,8 +9,6 @@
 **KM** | 27.000
 **Placa** | DUM993
 **Puertas** | 5
-**Dirección** | -
-**Transmisión** | -
 
 
 <p>&nbsp;</p>

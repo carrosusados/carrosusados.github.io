@@ -1,6 +1,6 @@
 ## Dfsk Glory 580 7 Pasajeros
 
-### Precio: $47.900.000
+### Precio: $43.900.000
 
 <p>&nbsp;</p>
 

@@ -1,6 +1,6 @@
 ## Subaru Forester Mecanica 2.0
 
-### Precio: $65.900.000
+### Precio: $60.900.000
 
 <p>&nbsp;</p>
 

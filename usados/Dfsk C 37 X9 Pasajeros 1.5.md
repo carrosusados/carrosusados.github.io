@@ -1,6 +1,6 @@
 ## Dfsk C 37 X9 Pasajeros 1.5
 
-### Precio: $52.000.000
+### Precio: $51.900.000
 
 <p>&nbsp;</p>
 
