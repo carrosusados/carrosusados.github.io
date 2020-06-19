@@ -1,6 +1,6 @@
 ## SUBARU TRIBECA 3.6 7P 2011
 
-### Precio: $41.900.000
+### Precio: $42.900.000
 
 <p>&nbsp;</p>
 
