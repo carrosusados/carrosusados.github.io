@@ -95,6 +95,13 @@
 ## Forester
 <p>&nbsp;</p>
 
+### Subaru Forester Eyesight 2.5 2019 [(Galería e Información)](/usados/Subaru Forester FOR584.md)
+#### Precio: $125.000.000
+
+<img src="/usados/images/Forestar FOR584.jpeg?raw=true"/>
+<p>&nbsp;</p>
+
+-----
 ### Subaru Forester XT Turbo 2017 [(Galería e Información)](/usados/Subaru XT Turbo.md)
 #### Precio: $81.900.000
 
