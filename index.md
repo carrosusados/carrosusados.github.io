@@ -1,4 +1,4 @@
-## Carros Usados 
+## Carros Seminuevos
 
 ![](/usados/images/Perfil/praco.PNG){:height="40%" width="40%"} 
 
