@@ -2,7 +2,6 @@
 
 ![](/usados/images/Perfil/praco.PNG){:height="40%" width="40%"} 
 
-<p>&nbsp;</p>
 
 -----------
 Usados **100% asegurables**, revisión Automás, financiación bancaria, según perfil, del **100% del vehículo**.
