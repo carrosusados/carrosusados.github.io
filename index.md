@@ -1,6 +1,6 @@
 ## Carros Usados 
 
-![](/usados/images/Perfil/praco.PNG){:height="20%" width="20%"} 
+![](/usados/images/Perfil/praco.PNG){:height="40%" width="40%"} 
 
 <p>&nbsp;</p>
 
