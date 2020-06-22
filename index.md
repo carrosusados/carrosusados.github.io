@@ -1,9 +1,13 @@
-## Carros Usados
+## Carros Usados 
+
+![](/usados/images/Perfil/praco logo.PNG){:height="20%" width="20%"}
+
+<p>&nbsp;</p>
 
 -----------
 Usados **100% asegurables**, revisión Automás, financiación bancaria, según perfil, del **100% del vehículo**.
 
-Concesionario con más de **103 años** en el mercado nacional, **40 puntos** de venta y con presencia en **36 países**, importador de Subaru, Jaguar, Land Rover, Mercedes Benz, DFSK, Hino, BAIC, entre otros.
+Concesionario Praco Didacol con más de **103 años** en el mercado nacional, **40 puntos** de venta y con presencia en **36 países**, importador de Subaru, Jaguar, Land Rover, Mercedes Benz, DFSK, Hino, BAIC, entre otros.
 
 <p>&nbsp;</p>
 
@@ -40,4 +44,4 @@ Concesionario con más de **103 años** en el mercado nacional, **40 puntos** de
 ## Sistema de Protección para tu Vehículo
 ![](/usados/images/Perfil/gardx video.gif)
 
-Clic ![ aquí ](/usados/gardx.md) para más información
+Clic [ aquí ](/usados/gardx.md) para más información
