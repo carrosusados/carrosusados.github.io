@@ -1,6 +1,6 @@
 ## Carros Usados 
 
-![](/usados/images/Perfil/praco logo.PNG)
+![](/usados/images/Perfil/praco.PNG)
 
 <p>&nbsp;</p>
 
